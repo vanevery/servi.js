@@ -3,7 +3,7 @@ servi.js
 
 servi.js is an easy to learn JavaScript node.js microframework for creating web servers.  It is inspired by Processing and p5.js.
 
-There is a GUI IDE being developed for use with servi.js, https://github.com/antiboredom/servi-ide
+There is a GUI IDE being developed for use with servi.js, https://github.com/antiboredom/jside
 
 Getting Started
 ========
